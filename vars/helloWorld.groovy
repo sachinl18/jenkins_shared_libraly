@@ -1,6 +1,6 @@
 def call() {
     echo "Hello from the shared library!"
 }
-def greet(String name) {
+def greet() {
     echo "Hello, This is Sachin!"
 }
